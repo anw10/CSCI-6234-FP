@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534154040430",
+    "project_id": "stellar-f4eda",
+    "storage_bucket": "stellar-f4eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534154040430:android:7d5d735e28fae3af6a827f",
+        "android_client_info": {
+          "package_name": "com.stellar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_iFoZhdtMlSlX5n_vQCIPDbFaRT25Ouw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
